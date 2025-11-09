@@ -3,6 +3,7 @@ Secure Finance Tracker
 ======================
 
 This is a secure terminal-based Finance Tracker application written in C.
+This project was submitted for CS 455 Secure Software Development course.
 
 Features:
 ---------
